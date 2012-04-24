@@ -1,1 +1,1 @@
-System for ordering a sandwich.  Includes ability to view order history.  Check out the model test in spec/models/order_spec.rb
+Starting with an actual working Heroku/bootstrap deployment.

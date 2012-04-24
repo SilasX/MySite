@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 gem 'rails', '3.2.3'
 gem 'bootstrap-sass'
+gem 'haml'
 gem 'pony'
 gem 'simple_form'
 gem 'heroku'
