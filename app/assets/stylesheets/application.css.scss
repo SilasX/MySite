@@ -9,11 +9,8 @@
  * compiled file, but it's generally better to create a new file per style scope.
  *= require_bootstrap
  *= require_self
+ *= require_staticpages
  *= require_tree .
 */
 
 @import "bootstrap";
-
-.danger {
-				color: red;
-}
